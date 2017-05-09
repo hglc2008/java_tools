@@ -1,0 +1,3 @@
+主要涉及xml先关的一些东西
+1.dom4j和sax主要是涉及xml解析
+2.freemarker和volecity主要是通过挡板生成xml格式的字符串
