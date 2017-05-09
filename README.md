@@ -1,3 +1,6 @@
-# java_tools
 java相关日常积累
-积累一些java开发中常用的一些东西
+===
+简介
+--
+*   xml解析和xml字符串生成
+*   几种常用的通讯方式，http,https,socket
