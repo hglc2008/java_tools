@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<USER>
+    <AGE>${age}</AGE>
+    <NAME>${name}</NAME>
+    <PhoneList>
+        <UserPhone>
+            <num>${num1}</num>
+            <type>${type1}</type>
+        </UserPhone>
+        <UserPhone>
+            <num>${num2}</num>
+            <type>${type2}</type>
+        </UserPhone>
+    </PhoneList>
+    <UserAddress>
+        <HomeAddress>${homeAddress}</HomeAddress>
+        <WorkAddress>${workAddress}</WorkAddress>
+    </UserAddress>
+</USER>
